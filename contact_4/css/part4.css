@@ -1,0 +1,9 @@
+.part_4{
+    background-image: url(../images/kitchen_1.jpeg);
+    width: 90%;
+    margin-top: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    height: 15em;
+    background-size: 100% 15em;
+}

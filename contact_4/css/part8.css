@@ -1,0 +1,180 @@
+.part_8{
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.part_8_div_1{
+    display: inline-block;
+    position: relative;
+    width: 60%;
+    background: rgb(71, 71, 73);
+}
+
+.part_8_div_2_section_2{
+    position: absolute;
+    top: 85%;
+    left: 65%;
+}
+
+.part_8_div_2_section_2_logo{
+    display: inline-block;
+    margin: 5px;
+    background:rgb(71, 71, 73);
+    padding: 10px;
+}
+
+.part_8_div_2_section_2_logo_link{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+    
+}
+
+.part_8_div_2{
+    display: inline-block;
+    width: 40%;
+    height: inherit;
+}
+
+.part_8_div_2_section_1{
+    padding: 3em;
+}
+
+.part_8_div_2_section_1_item{
+    margin-top:2em;
+}
+
+.part_8_div_2_icon{
+    color: yellow;
+    font-size: 40px;
+}
+
+.part_8_div_2_section_1_item_logo{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.part_8_div_2_section_1_item_text{
+    display: inline-block;
+}
+
+.part_8_div_2_section_1_item_text_head_1{
+    color: goldenrod;
+    margin: 0px;
+}
+
+.part_8_div_2_section_1_item_text_head_2{
+    color: goldenrod;
+    margin: 0px;
+}
+
+.part_8_div_1_section_3{
+    margin-top: 5em;
+    margin-left: 5em;
+}
+
+.part_8_div_1_section_3_head{
+    color: white;
+}
+
+.part_8_div_1_section_2{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+}
+
+.part_8_div_1_section_1_ul{
+    list-style: none;
+}
+
+.part_8_div_1_section_1_ul_item{
+    line-height: 1.2;
+}
+
+.part_8_div_1_section_1_ul_item_link{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.part_8_div_1_section_2_img{
+    height: 4em;
+    width: 4em;
+    border-radius: 10px;
+    position:relative;
+}
+
+#one{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+}
+
+#two{
+    position: absolute;
+    top : 5%;
+    left:5em;
+}
+
+#three{
+    position: absolute;
+    top: 5%;
+    left: 10em;
+}
+
+#four{
+    position: absolute;
+    top: 5em;
+    left: 50%;
+}
+
+#five{
+    position: absolute;
+    top: 5em;
+    left:5em;
+}
+
+#six{
+    position: absolute;
+    top: 5em;
+    left: 10em;
+}
+
+#seven{
+    position: absolute;
+    top: 10em;
+    left:50%;
+}
+
+#eight{
+    position: absolute;
+    top: 10em;
+    left:5em;
+}
+
+#nine{
+    position: absolute;
+    top: 10em;
+    left: 10em;
+}
+
+#part_8_go_up{
+    position: absolute;
+    top: 80%;
+    left: 95%;
+    width: 2em;
+    padding: 10px;
+    background: white;
+    border-radius: 60%;
+}
+
+#part_8_go_up_link{
+    margin-left: 5px;
+    color: yellow;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bolder;
+}

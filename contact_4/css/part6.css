@@ -1,0 +1,53 @@
+.part_6{
+    background: inherit;
+    display: inline-block;
+    width: 40%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding: 2em;
+}
+
+.part_6_head{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#part_6_special_head{
+    font-style: normal;
+    color:black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+.part_6_form{
+    margin-top: 3em;
+}
+
+.part_6_form_input{
+    background: black;
+    color: white;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: solid;
+    font-size: 18px;
+    margin: 10px;
+}
+
+#part_6_form_button{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding: 15px;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    margin-top: 2em;
+    background:  goldenrod;
+}
+
+#part_6_form_button:hover{
+    background: whitesmoke;
+    color: gold;
+}

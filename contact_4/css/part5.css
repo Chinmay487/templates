@@ -1,0 +1,30 @@
+.part_5{
+    background: white;
+    color: black;
+    display: inline-block;
+    border-radius: 20px;
+    position: absolute;
+    left: 60%;
+    top: 63em;
+}
+
+.part_5_ul{
+    list-style: none;
+    padding: 20px;
+    font-size: 25px;
+}
+
+#part_5_icon{
+    color: yellow;
+    font-style: normal;
+}
+
+#part_5_ul_heading{
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.part_5_ul_item{
+    margin: 20px;
+}
